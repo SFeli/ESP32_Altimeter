@@ -7,6 +7,4 @@ Lolin D32 Pro
 LOLIN TFT - 2.4
 HP303BP - I2C-Sensor
 
-![Setup](http://github.com/SFeli/ESP32_Altimeter/blob/master/Lolin32_Altimeter.jpeg)
-
 ![Setup](/Lolin32_Altimeter.jpeg)
