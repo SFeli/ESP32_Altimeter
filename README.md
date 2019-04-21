@@ -16,6 +16,7 @@ Interaction:
         Touchscreen supports to adjust the Altimeter-Correction-Factor
         Since the atmospherically pressure changes the offset for the calculated of the hight changes as well.
                 This offset (Correction-Factor can be changed by pressing in the touchscreen.)
-                        Left side - 10 Meters         right side + 10 Meters
+                
+                Left side - 10 Meters         right side + 10 Meters
 
 ![Setup](/Lolin32_Altimeter.jpeg)
