@@ -5,7 +5,7 @@ Simple straight forward digital Altimeter with
 
 - Lolin D32 Pro 
 - LOLIN TFT - 2.4 - display
-- HP303BP - I2C-Sensor
+- HP303B - I2C-Sensor
 
 Shows:
 - Pressure in hPa and in inHg (convenient for Pilots with old American instruments)
